@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Change</string>
+    <string name="setValue">set value</string>
+    <string name="fromShekel">from Shekel</string>
+    <string name="toShekel">to Shekel</string>
+    <string name="change">change</string>
+
+</resources>
